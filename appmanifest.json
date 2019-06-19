@@ -1,0 +1,10 @@
+{
+	"name": "d Runner",
+	"short_name": "d Runner",
+	"description": "Super G has a new adventure looking for his Mora smoothies.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
